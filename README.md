@@ -24,10 +24,10 @@ Install the packages listed in `requirements.txt`, then open and run the noteboo
 ## Availability and citation
 
 Repository: https://github.com/cellwj/TDVelo  
-Version: v1.0.0 (initial submission snapshot).
+Version: v1.0.1.
 
 Cite the associated TDVelo manuscript when using this code. The manuscript Data Availability Statement should identify the code repository and the data repositories/accessions listed above.
 
 ## License
 
-Add the rights-holder-approved software license in `LICENSE`.
+The software source code in this repository is licensed under the MIT License; see `LICENSE`. The included datasets and regulatory gene-set files remain subject to their respective source terms.

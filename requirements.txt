@@ -1,0 +1,12 @@
+joblib
+matplotlib
+networkx
+numpy
+pandas
+requests
+scanpy
+scvelo
+seaborn
+scikit-learn
+torch
+tqdm
